@@ -1,4 +1,4 @@
-# Artifitial neural network for the breast cancer dataset
+# Artifitial neural network for the Car Evaluation Data Set
 
 The goal to be achieved in this project is to create a neural network which can successfully be trained to evaluate the given car dataset based on the provided attributes i.e. doors, persons ,lug boot, etc., and make predictions on the car's acceptability.
 
